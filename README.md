@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ajsi!
 
-<!--
-**ajsisel/ajsisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- It's a pleasure to meet you!-->
+I'm a first-year Software Engineering Co-op Student at the University of Ottawa, interested in software development, cybersecurity, and ethical technology.
 
-Here are some ideas to get you started:
+***Technical Skills:***
+- Languages: Python, JavaScript, HTML, CSS
+- Operating System Security: Linux, Windows, Windows Server
+- Tools: Git, Github, Figma
+- Robotics: Sensor integration, Mechanical Design, Hardware Troubleshooting
+  
+***Currently:***
+- Expanding my software development skills
+- Building projects and gaining hands-on experience
+- Exploring cybersecurity and software engineering practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***Extracurriculars:***
+- First-Year Representative for Engineering Students' Society uOttawa (Oct 2026-Present)
+
+***Connect with Me:***
+[LinkedIn](linkedin.com/in/ajsi-selmanaj)
+
